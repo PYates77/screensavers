@@ -10,3 +10,6 @@ My criteria on what counts as a screensaver
 * Support more terminals
 * Move the fullscreen terminal wrapper to common code
 * Randomizer script checks if dependency is missing and tries the next screensaver
+
+### Would Make a Good Screensaver
+* Astroterm
